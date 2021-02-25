@@ -4,7 +4,7 @@ String Encoder Problem Solution using Java Springboot.
 Instructions:
 
 1. Pull the code from this and run the app in eclipse/STS or IDE of your choice using springboot app.
-2. Go to http://localhost/8080/"aaa" or any string of your choice with a's and b's 
+2. Go to http://localhost;8080/encode/"aaa" or any string of your choice with a's and b's 
 
 Working:
 
