@@ -9,7 +9,7 @@ Instructions:
 Working and logic:
 
 The entire logic for this problem is present in Service.java file within controller folder.
-The working is solely based on the usage of HashMap since it made the most with respect to its key value store property and its O(1) look up time.
+The working is solely based on the usage of HashMap since it made  the most sense with respect to its key value store property and its O(1) look up time complexity.
 The run time of this algorithm is linear O(n).
 
 Used a string URL to be the input since it is a String encoder app.
